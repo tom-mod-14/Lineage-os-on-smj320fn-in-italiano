@@ -1,5 +1,4 @@
 # Lineage-os-on-smj320fn-in-italiano
-# Lineage-os-on-smj320fn
 
 ## Guida all'installazione di LineageOS 14.1 per Samsung Galaxy J3 2016 (SM-J320FN)
 
